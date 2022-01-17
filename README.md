@@ -1,4 +1,4 @@
-# caesar-decoder-translator
+# caesar-cipher-decoder-translator
 Translator for caesar and decoder 
 
 While you are usind Encoder and decoder you can use special  chars(like ! ? =). 
